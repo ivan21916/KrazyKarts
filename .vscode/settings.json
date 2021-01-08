@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"C:/KrazyKarts/KrazyKarts/.vscode": true,
+		"C:/KrazyKarts/KrazyKarts/Content": true,
+		"C:/KrazyKarts/KrazyKarts/Intermediate": true
+	}
+}
